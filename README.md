@@ -1,3 +1,3 @@
 # Movie_Quiz
-Christopher Nolan's Movies
- A quiz app to determine how moviemaniac are you.🎥
+Christopher Nolan's Movies:
+ A quiz app to find out how much moviemaniac are you.🎥
